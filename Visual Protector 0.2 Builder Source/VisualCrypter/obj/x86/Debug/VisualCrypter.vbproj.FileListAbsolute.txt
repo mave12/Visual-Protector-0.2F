@@ -1,0 +1,10 @@
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\bin\x86\Debug\Visual Protector.exe.config
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\bin\x86\Debug\Visual Protector.exe
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\bin\x86\Debug\Visual Protector.pdb
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\VisualCrypter.vbprojAssemblyReference.cache
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\VisualCrypter.Index.resources
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\VisualCrypter.Resources.resources
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\VisualCrypter.vbproj.GenerateResource.cache
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\VisualCrypter.vbproj.CoreCompileInputs.cache
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\Visual Protector.exe
+C:\Users\matze\Desktop\Visual Protector 0.2F\Visual Protector 0.2 Builder Source\VisualCrypter\obj\x86\Debug\Visual Protector.pdb
